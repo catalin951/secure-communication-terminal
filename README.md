@@ -54,6 +54,9 @@ This project is built using **PlatformIO**.
 4. Compile and upload to your ESP32 boards using `Upload`.
 5. Note: The project leverages the `driver/i2s_std.h` API from the ESP-IDF natively within the Arduino framework.
 
+## Additional Links:
+1. Page with more information about the project: https://ocw.cs.pub.ro/courses/pm/prj2026/theodor_ioan.buliga/catalin.manole1211
+2. Demo of the project: https://www.youtube.com/shorts/ny9w-C_flPQ
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
